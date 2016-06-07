@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Detuzo</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="rychlost">rychlost</string>
+    <string name="mainimage">mainImage</string>
+    <string name="emptyvaluedis">-:-</string>
+    <string name="emptyvaluetim">-:-:-</string>
+</resources>
